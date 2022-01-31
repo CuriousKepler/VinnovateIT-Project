@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VinnovateIT-Project/static/css/main.3b89e64b.css",
+    "main.js": "/VinnovateIT-Project/static/js/main.92f656d0.js",
+    "static/js/787.0755f445.chunk.js": "/VinnovateIT-Project/static/js/787.0755f445.chunk.js",
+    "static/media/meme.png": "/VinnovateIT-Project/static/media/meme.59848c33022c6ac5b735.png",
+    "index.html": "/VinnovateIT-Project/index.html",
+    "main.3b89e64b.css.map": "/VinnovateIT-Project/static/css/main.3b89e64b.css.map",
+    "main.92f656d0.js.map": "/VinnovateIT-Project/static/js/main.92f656d0.js.map",
+    "787.0755f445.chunk.js.map": "/VinnovateIT-Project/static/js/787.0755f445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b89e64b.css",
+    "static/js/main.92f656d0.js"
+  ]
+}
